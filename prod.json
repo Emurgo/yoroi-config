@@ -3,21 +3,21 @@
     "internal": {
       "catalystRegistration": {
         "mobile": "???",
-        "extension": "/catalyst-registration",
-      },
+        "extension": "/catalyst-registration"
+      }
     },
     "external": {
-      "yoroiWebsite": "https://yoroi-wallet.com",
-    },
+      "yoroiWebsite": "https://yoroi-wallet.com"
+    }
   },
   "banners": {
     "midnightAnnouncement": {
-      "display": false,
-    },
+      "display": false
+    }
   },
   "popups": {
     "midnightDistribution": {
-      "display": false,
-    },
-  },
+      "display": false
+    }
+  }
 }
