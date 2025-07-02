@@ -18,6 +18,12 @@
   "popups": {
     "midnightDistribution": {
       "display": false
+    },
+    "generalFeaturesAnnouncement":{
+      "display": true
+    },
+    "poolTransitionDialog":{
+      "display": true
     }
   },
   "dapps": {
