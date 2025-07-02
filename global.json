@@ -1,0 +1,23 @@
+{
+  "pushLinkKeys": {
+    "internal": {
+      "catalystRegistration": {
+        "mobile": "???",
+        "extension": "/catalyst-registration",
+      },
+    },
+    "external": {
+      "yoroiWebsite": "https://yoroi-wallet.com",
+    },
+  },
+  "banners": {
+    "midnightAnnouncement": {
+      "display": false,
+    },
+  },
+  "popups": {
+    "midnightDistribution": {
+      "display": false,
+    },
+  },
+}
