@@ -19,5 +19,259 @@
     "midnightDistribution": {
       "display": false
     }
+  },
+  "dapps": {
+    "banned": [],
+    "recommended": [
+      {
+        "id": "cardano_spot",
+        "name": "Cardano Spot",
+        "description": "Join a global Cardano Community: a single space to communicate, engage, educate with Cardano",
+        "category": "News",
+        "logo": "cardano-spot.png",
+        "uri": "https://cardanospot.io/landing",
+        "origins": ["https://cardanospot.io"]
+      },
+      {
+        "id": "minswap",
+        "name": "Minswap",
+        "description": "A decentralized exchange governed by a community that zaps",
+        "category": "DEX",
+        "logo": "minswap.png",
+        "uri": "https://app.minswap.org",
+        "origins": ["https://minswap.org", "https://app.minswap.org"]
+      },
+      {
+        "id": "sundaeswap",
+        "name": "SundaeSwap",
+        "description": "Native, scalable decentralized exchange and automated liquidity provision protocol",
+        "category": "DEX",
+        "logo": "sundaeswap.png",
+        "uri": "https://app.sundae.fi",
+        "origins": ["https://sondae.fi", "https://app.sundae.fi"]
+      },
+      {
+        "id": "muesliswap",
+        "name": "MuesliSwap",
+        "description": "Swap tokens, earn & invest  on Cardano's leading DeFi ecosystem",
+        "category": "DEX",
+        "logo": "muesliswap.png",
+        "uri": "https://muesliswap.com/",
+        "origins": ["https://muesliswap.com"]
+      },
+      {
+        "id": "geniusyield",
+        "name": "GeniusYield",
+        "description": "The all-in-one platform, that combines an order book DEX with an automated yield optimizer.",
+        "category": "DEX",
+        "logo": "genius-yield.png",
+        "uri": "https://app.geniusyield.co",
+        "origins": ["https://www.geniusyield.co", "https://app.geniusyield.co"]
+      },
+      {
+        "id": "wingriders",
+        "name": "Wingriders",
+        "description": "Native and fast AMM decentralized exchange platform",
+        "category": "DEX",
+        "logo": "wingriders.png",
+        "uri": "https://app.wingriders.com",
+        "origins": ["https://www.wingriders.com", "https://app.wingriders.com"]
+      },
+      {
+        "id": "dex_hunter",
+        "name": "DEX Hunter",
+        "description": "Biggest Cardano DEX Aggregator with real-time alerts and an easy to use interface",
+        "category": "DEX",
+        "logo": "dexhunter.png",
+        "uri": "https://app.dexhunter.io",
+        "origins": ["https://www.dexhunter.io", "https://app.dexhunter.io"],
+        "isSingleAddress": true
+      },
+      {
+        "id": "fetch",
+        "name": "Fetch",
+        "description": "Fetch by HOSKY - No tricks, just the best trades! The user-first, transparent DEX aggregator on Cardano.",
+        "category": "DEX",
+        "logo": "fetch.png",
+        "uri": "https://fetch.hosky.io",
+        "origins": ["https://fetch.hosky.io"],
+        "isSingleAddress": false
+      },
+      {
+        "id": "ada_handle",
+        "name": "ADA Handle",
+        "description": "Unique naming solution for your Cardano wallet address",
+        "category": "Identity",
+        "logo": "ada-handle.png",
+        "uri": "https://handle.me",
+        "origins": [
+          "https://adahandle.com",
+          "https://mint.handle.me",
+          "https://handle.me"
+        ]
+      },
+      {
+        "id": "book_io",
+        "name": "Book.io",
+        "description": "A Web3 marketplace for buying, reading, and selling eBooks and Audiobooks",
+        "category": "Entertainment",
+        "logo": "book.png",
+        "uri": "https://app.book.io",
+        "origins": ["https://book.io", "https://app.book.io"]
+      },
+      {
+        "id": "nucast",
+        "name": "Nucast",
+        "description": "Nest generation video streaming and ownership platform",
+        "category": "Entertainment",
+        "logo": "nucast.png",
+        "uri": "https://app.nucast.io",
+        "origins": ["https://www.nucast.io", "https://app.nucast.io"]
+      },
+      {
+        "id": "taptools",
+        "name": "Taptools",
+        "description": "Chart analysis, wallet profiler, and portfolio tracker on Cardano",
+        "category": "Trading Tools",
+        "logo": "taptools.png",
+        "uri": "https://www.taptools.io/",
+        "origins": ["https://www.taptools.io"]
+      },
+      {
+        "id": "liqwid",
+        "name": "Liqwid",
+        "description": "Earn interest, borrow assets, and build on the most hydrated liquidity protocol on Cardano",
+        "category": "DeFi",
+        "logo": "liqwid.png",
+        "uri": "https://v2.liqwid.finance",
+        "origins": ["https://liqwid.finance", "https://v2.liqwid.finance"]
+      },
+      {
+        "id": "lenfi",
+        "name": "Lenfi",
+        "description": "Permissionless lending, borrowing, liquidity pool creation, and more",
+        "category": "DeFi",
+        "logo": "lenfi.png",
+        "uri": "https://app.lenfi.io",
+        "origins": ["https://lenfi.io", "https://app.lenfi.io"]
+      },
+      {
+        "id": "fluidtokens",
+        "name": "FluidTokens",
+        "description": "Lend, borrow, rent, and boost",
+        "category": "DeFi",
+        "logo": "fluidtokens.png",
+        "uri": "https://app.fluidtokens.com",
+        "origins": ["https://fluidtokens.com", "https://app.fluidtokens.com"],
+        "isSingleAddress": true
+      },
+      {
+        "id": "optionflow",
+        "name": "OptionFlow",
+        "description": "A Decentralized Option Protocol on the Cardano Blockchain",
+        "category": "DeFi",
+        "logo": "optionflow.png",
+        "uri": "https://app.optionflow.finance/",
+        "origins": ["https://app.optionflow.finance"]
+      },
+      {
+        "id": "djed",
+        "name": "Djed",
+        "description": "Cardano's native overcollateralized stablecoin, developed by IOG and powered by COTI",
+        "category": "Stablecoin",
+        "logo": "djed.png",
+        "uri": "https://djed.xyz/",
+        "origins": ["https://djed.xyz"],
+        "isSingleAddress": true
+      },
+      {
+        "id": "iagon",
+        "name": "Iagon",
+        "description": "A cloud computing platform offering access to decentralized storage and compute",
+        "category": "Decentralised Storage",
+        "logo": "iagon.png",
+        "uri": "https://app.iagon.com",
+        "origins": ["https://iagon.com", "https://app.iagon.com"]
+      },
+      {
+        "id": "govtools",
+        "name": "GovTools",
+        "description": "Cardano Governance lets Ada holders have a say in the network's future.",
+        "category": "Community",
+        "logo": "govtools.jpeg",
+        "uri": "https://gov.tools",
+        "origins": ["https://gov.tools"]
+      },
+      {
+        "id": "xerberus",
+        "name": "Xerberus",
+        "description": "Token risk ratings protocol",
+        "category": "Trading Tools",
+        "logo": "xerberus.jpg",
+        "uri": "https://app.xerberus.io",
+        "origins": ["https://app.xerberus.io"]
+      },
+      {
+        "id": "summon",
+        "name": "Summon",
+        "description": "Cardano DAO tooling platform",
+        "category": "DAO",
+        "logo": "summon.png",
+        "uri": "https://app.summonplatform.io",
+        "origins": ["https://app.summonplatform.io"]
+      },
+      {
+        "id": "danogo",
+        "name": "Danogo",
+        "description": "List and trade bonds permission-lessly",
+        "category": "DEX",
+        "logo": "danogo.png",
+        "uri": "https://app.danogo.io",
+        "origins": ["https://app.danogo.io"]
+      },
+      {
+        "id": "clarity",
+        "name": "Clarity",
+        "description": "Create, join, and manage decentralized organizations.",
+        "category": "DAO",
+        "logo": "clarity.png",
+        "uri": "https://www.clarity.vote",
+        "origins": ["https://www.clarity.vote"]
+      },
+      {
+        "id": "saturnswap",
+        "name": "SaturnSwap",
+        "description": "Saturn Swap is a fast no-batcher orderbook Dex on the Cardano Blockchain.",
+        "category": "DEX",
+        "logo": "saturnswap.png",
+        "uri": "https://saturnswap.io",
+        "origins": ["https://saturnswap.io"]
+      }
+    ],
+    "filters": {
+      "Media": ["News", "Entertainment"],
+      "Investment": ["DeFi", "DEX", "Stablecoin"],
+      "Trading": ["DEX", "Trading Tools", "Stablecoin"],
+      "Community": ["DAO", "Decentralised Storage"]
+    }
+  },
+  "swap": {
+    "initialPair": {
+      "tokenIn": ".",
+      "tokenOut": "aaa."
+    },
+    "excludedTokens": [
+      "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb.43617264616e6f20436f6d6d756e697479204368617269747920436f696e"
+    ],
+    "verifiedTokens": [
+      "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae456.55534441",
+      "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f.534e454b",
+      "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a.576f726c644d6f62696c65546f6b656e58",
+      "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114.494147",
+      "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535.41474958"
+    ],
+    "partners": {
+      "dexhunter": "yoroiwallet616464723171793935616335727a39613463393865643365397334357530613579336d717165653933386e78797939766b6b6c6e78643472746e336e666b3861336d707263396b3067636a6e6e35707873736b323435333477366137386d687a736d68346a3039da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
   }
 }
