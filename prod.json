@@ -17,7 +17,7 @@
   },
   "popups": {
     "midnightDistribution": {
-      "display": false
+      "display": true
     },
     "generalFeaturesAnnouncement":{
       "display": true
