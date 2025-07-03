@@ -17,10 +17,10 @@
   },
   "popups": {
     "midnightDistribution": {
-      "display": false
+      "display": true
     },
     "generalFeaturesAnnouncement":{
-      "display": true
+      "display": false
     },
     "poolTransitionDialog":{
       "display": true
