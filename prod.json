@@ -26,6 +26,11 @@
       "display": true
     }
   },
+  "features": {
+    "airdrop": {
+      "enabled": false
+    }
+  },
   "dapps": {
     "banned": [],
     "recommended": [
