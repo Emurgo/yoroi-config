@@ -27,9 +27,6 @@
     }
   },
   "features": {
-    "governance": {
-      "enabled": true
-    },
     "airdrop": {
       "enabled": false
     }
