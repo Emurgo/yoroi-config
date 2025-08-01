@@ -19,10 +19,13 @@
     "midnightDistribution": {
       "display": false
     },
-    "generalFeaturesAnnouncement":{
+    "generalFeaturesAnnouncement": {
       "display": true
     },
-    "poolTransitionDialog":{
+    "poolTransitionDialog": {
+      "display": true
+    },
+    "cardanoCardAnnouncement": {
       "display": true
     }
   },

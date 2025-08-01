@@ -22,7 +22,10 @@
     "generalFeaturesAnnouncement":{
       "display": false
     },
-    "poolTransitionDialog":{
+    "poolTransitionDialog": {
+      "display": true
+    },
+    "cardanoCardAnnouncement": {
       "display": true
     }
   },
