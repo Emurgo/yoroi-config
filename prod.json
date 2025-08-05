@@ -12,12 +12,12 @@
   },
   "banners": {
     "midnightAnnouncement": {
-      "display": false
+      "display": true
     }
   },
   "popups": {
     "midnightDistribution": {
-      "display": true
+      "display": false
     },
     "generalFeaturesAnnouncement": {
       "display": false
@@ -31,7 +31,7 @@
   },
   "features": {
     "airdrop": {
-      "enabled": false
+      "enabled": true
     }
   },
   "dapps": {
