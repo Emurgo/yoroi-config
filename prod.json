@@ -30,9 +30,6 @@
     }
   },
   "features": {
-    "airdrop": {
-      "enabled": true
-    }
   },
   "dapps": {
     "banned": [],
