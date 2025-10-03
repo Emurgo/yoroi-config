@@ -13,6 +13,9 @@
   "banners": {
     "midnightAnnouncement": {
       "display": false
+    },
+    "yoroiDrep": {
+      "display": true
     }
   },
   "popups": {
