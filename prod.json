@@ -12,7 +12,7 @@
   },
   "banners": {
     "midnightAnnouncement": {
-      "display": true
+      "display": false
     },
     "yoroiDrep": {
       "display": true
