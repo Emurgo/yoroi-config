@@ -29,6 +29,9 @@
       "display": true
     },
     "cardanoCardAnnouncement": {
+      "display": false
+    },
+    "firefoxSupportAnnouncement": {
       "display": true
     }
   },
