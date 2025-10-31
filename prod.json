@@ -30,6 +30,9 @@
     },
     "cardanoCardAnnouncement": {
       "display": true
+    },
+    "firefoxSupportAnnouncement": {
+      "display": true
     }
   },
   "features": {
