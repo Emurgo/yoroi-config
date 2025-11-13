@@ -38,8 +38,7 @@
       "display": true
     }
   },
-  "features": {
-  },
+  "features": {},
   "dapps": {
     "banned": [],
     "recommended": [
@@ -51,6 +50,15 @@
         "logo": "cardano-spot.png",
         "uri": "https://cardanospot.io/landing",
         "origins": ["https://cardanospot.io"]
+      },
+      {
+        "id": "steelswap",
+        "name": "SteelSwap",
+        "description": "Refining swap outputs. Forging Cardano DeFi mastery.",
+        "category": "DEX",
+        "logo": "steelswap.png",
+        "uri": "https://steelswap.io/swap?input=&output=fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
+        "origins": ["https://steelswap.io"]
       },
       {
         "id": "minswap",
