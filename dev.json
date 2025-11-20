@@ -38,7 +38,11 @@
       "display": true
     }
   },
-  "features": {},
+  "features": {
+    "midnightAirdrop": {
+      "enabled": true
+    }
+  },
   "dapps": {
     "banned": [],
     "recommended": [
