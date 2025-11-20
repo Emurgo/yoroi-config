@@ -39,6 +39,9 @@
     }
   },
   "features": {
+    "midnightAirdrop": {
+      "enabled": false
+    }
   },
   "dapps": {
     "banned": [],
