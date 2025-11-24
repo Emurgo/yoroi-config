@@ -43,7 +43,8 @@
       "enabled": true
     },
     "pushNotifications": {
-      "enabled": false
+      "mobile": false,
+      "extension": true
     }
   },
   "dapps": {
