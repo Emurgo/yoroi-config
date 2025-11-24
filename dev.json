@@ -41,6 +41,9 @@
   "features": {
     "midnightAirdrop": {
       "enabled": true
+    },
+    "pushNotifications": {
+      "enabled": false
     }
   },
   "dapps": {
