@@ -38,7 +38,7 @@
       "display": true
     },
     "stakingUpdate": {
-      "display": true,
+      "display": false,
       "affectedPools": [
         "pool13mas2wthxs28zftxskcsd8t87jk2w9ntc0u5uflt45sh7lcvs8h",
         "pool1pmm654jfx088td54ekkkd0j28x6r5gnjdhnutzggursrxjnpk2y",
