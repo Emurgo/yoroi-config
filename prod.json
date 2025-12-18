@@ -280,6 +280,24 @@
         "logo": "saturnswap.png",
         "uri": "https://saturnswap.io",
         "origins": ["https://saturnswap.io"]
+      },
+      {
+        "id": "parmon_payment_network",
+        "name": "Parmon Payment Network",
+        "description": "The Pioneer of payments — manage wallets, certificates, and crypto transactions on Cardano",
+        "category": "Payments",
+        "logo": "ppn.png",
+        "uri": "https://parmonpaymentnetwork.com",
+        "origins": ["https://parmonpaymentnetwork.com"]
+      },
+      {
+        "id": "bargain_bay",
+        "name": "Bargain Bay",
+        "description": "Shop and pay with Cardano — a marketplace with crypto checkout and rebates",
+        "category": "Marketplace",
+        "logo": "bargainbay.png",
+        "uri": "https://bargainbaystore.com",
+        "origins": ["https://bargainbaystore.com"]
       }
     ],
     "filters": {
