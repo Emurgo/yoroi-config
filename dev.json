@@ -23,7 +23,9 @@
     "earnRewardsWithYoroi": {
       "display": true,
       "poolId": "b19f2d9498845652ae6eea5da77952b37e2bca9f59b2a98c56694cae",
-      "poolName": "[YORO2] Yoroi pool 2"
+      "poolName": "[YORO2] Yoroi pool 2",
+      "dRepId": "220655f3a1c76788d839212adc459b188b84e680f30ae944c593fa18ae",
+      "dRepName": "Yoroi W₳llet"
     }
   },
   "popups": {
