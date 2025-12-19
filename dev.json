@@ -19,6 +19,11 @@
     },
     "yoroiDrep": {
       "display": true
+    },
+    "earnRewardsWithYoroi": {
+      "display": true,
+      "poolId": "b19f2d9498845652ae6eea5da77952b37e2bca9f59b2a98c56694cae",
+      "poolName": "[YORO2] Yoroi pool 2"
     }
   },
   "popups": {
