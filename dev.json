@@ -302,33 +302,33 @@
       "Investment": ["DeFi", "DEX", "Stablecoin"],
       "Trading": ["DEX", "Trading Tools", "Stablecoin"],
       "Community": ["DAO", "Decentralised Storage"]
-    },
-    "preprod": {
-      "recommended": [
-        {
-          "id": "djed",
-          "name": "Djed",
-          "description": "Cardano's native overcollateralized stablecoin, developed by IOG and powered by COTI",
-          "category": "Stablecoin",
-          "logo": "djed.png",
-          "uri": "https://preprod.djed.xyz/",
-          "origins": [
-            "https://preprod.djed.xyz"
-          ],
-          "isSingleAddress": true
-        }
-      ],
-      "filters": {
-        "Investment": [
-          "Stablecoin"
+    }
+  },
+  "dappsPreprod": {
+    "recommended": [
+      {
+        "id": "djed",
+        "name": "Djed",
+        "description": "Cardano's native overcollateralized stablecoin, developed by IOG and powered by COTI",
+        "category": "Stablecoin",
+        "logo": "djed.png",
+        "uri": "https://preprod.djed.xyz/",
+        "origins": [
+          "https://preprod.djed.xyz"
         ],
-        "Trading": [
-          "Stablecoin"
-        ],
-        "NFT": [
-          "Identity"
-        ]
+        "isSingleAddress": true
       }
+    ],
+    "filters": {
+      "Investment": [
+        "Stablecoin"
+      ],
+      "Trading": [
+        "Stablecoin"
+      ],
+      "NFT": [
+        "Identity"
+      ]
     }
   },
   "swap": {
