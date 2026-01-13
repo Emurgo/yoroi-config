@@ -304,6 +304,33 @@
       "Community": ["DAO", "Decentralised Storage"]
     }
   },
+  "dappsPreprod": {
+    "recommended": [
+      {
+        "id": "djed",
+        "name": "Djed",
+        "description": "Cardano's native overcollateralized stablecoin, developed by IOG and powered by COTI",
+        "category": "Stablecoin",
+        "logo": "djed.png",
+        "uri": "https://preprod.djed.xyz/",
+        "origins": [
+          "https://preprod.djed.xyz"
+        ],
+        "isSingleAddress": true
+      }
+    ],
+    "filters": {
+      "Investment": [
+        "Stablecoin"
+      ],
+      "Trading": [
+        "Stablecoin"
+      ],
+      "NFT": [
+        "Identity"
+      ]
+    }
+  },
   "swap": {
     "initialPair": {
       "tokenIn": ".",
