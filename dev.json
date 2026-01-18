@@ -22,8 +22,8 @@
     },
     "earnRewardsWithYoroi": {
       "display": true,
-      "poolId": "2a8294ad7538b15353b9ffd81e26dafe846ffc3f6b9e331d4c1dc030",
-      "poolName": "[YORO1] Yoroi pool 1",
+      "poolId": "6a2eecc8015c24b496c70f60141477f9efcd98cf9dfd0b47d27f5bd5",
+      "poolName": "[YOROI] Yoroi pool",
       "drepId": "220655f3a1c76788d839212adc459b188b84e680f30ae944c593fa18ae"
     }
   },
@@ -302,6 +302,33 @@
       "Investment": ["DeFi", "DEX", "Stablecoin"],
       "Trading": ["DEX", "Trading Tools", "Stablecoin"],
       "Community": ["DAO", "Decentralised Storage"]
+    }
+  },
+  "dappsPreprod": {
+    "recommended": [
+      {
+        "id": "djed",
+        "name": "Djed",
+        "description": "Cardano's native overcollateralized stablecoin, developed by IOG and powered by COTI",
+        "category": "Stablecoin",
+        "logo": "djed.png",
+        "uri": "https://preprod.djed.xyz/",
+        "origins": [
+          "https://preprod.djed.xyz"
+        ],
+        "isSingleAddress": true
+      }
+    ],
+    "filters": {
+      "Investment": [
+        "Stablecoin"
+      ],
+      "Trading": [
+        "Stablecoin"
+      ],
+      "NFT": [
+        "Identity"
+      ]
     }
   },
   "swap": {
