@@ -64,15 +64,6 @@
     "banned": [],
     "recommended": [
       {
-        "id": "cardano_spot",
-        "name": "Cardano Spot",
-        "description": "Join a global Cardano Community: a single space to communicate, engage, educate with Cardano",
-        "category": "News",
-        "logo": "cardano-spot.png",
-        "uri": "https://cardanospot.io/landing",
-        "origins": ["https://cardanospot.io"]
-      },
-      {
         "id": "minswap",
         "name": "Minswap",
         "description": "A decentralized exchange governed by a community that zaps",
@@ -183,17 +174,8 @@
         "description": "Earn interest, borrow assets, and build on the most hydrated liquidity protocol on Cardano",
         "category": "DeFi",
         "logo": "liqwid.png",
-        "uri": "https://v2.liqwid.finance",
+        "uri": "https://app.liqwid.finance",
         "origins": ["https://liqwid.finance", "https://v2.liqwid.finance"]
-      },
-      {
-        "id": "lenfi",
-        "name": "Lenfi",
-        "description": "Permissionless lending, borrowing, liquidity pool creation, and more",
-        "category": "DeFi",
-        "logo": "lenfi.png",
-        "uri": "https://app.lenfi.io",
-        "origins": ["https://lenfi.io", "https://app.lenfi.io"]
       },
       {
         "id": "fluidtokens",
@@ -250,15 +232,6 @@
         "logo": "xerberus.jpg",
         "uri": "https://app.xerberus.io",
         "origins": ["https://app.xerberus.io"]
-      },
-      {
-        "id": "summon",
-        "name": "Summon",
-        "description": "Cardano DAO tooling platform",
-        "category": "DAO",
-        "logo": "summon.png",
-        "uri": "https://app.summonplatform.io",
-        "origins": ["https://app.summonplatform.io"]
       },
       {
         "id": "danogo",
