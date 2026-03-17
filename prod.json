@@ -38,7 +38,7 @@
       "display": true
     },
     "cardanoCardAnnouncement": {
-      "display": true
+      "display": false
     },
     "firefoxSupportAnnouncement": {
       "display": true
