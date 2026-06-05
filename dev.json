@@ -55,7 +55,7 @@
       ]
     },
     "secondFiTeaser": {
-      "display": true
+      "display": false
     }
   },
   "features": {
